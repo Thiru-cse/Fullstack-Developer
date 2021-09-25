@@ -1,0 +1,13 @@
+.checked {
+    color: orange;
+}
+
+.container {
+    background-color: rgb(236, 236, 236);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fa{
+    font-size: 30px;
+}
